@@ -1,0 +1,2 @@
+PatientID,Surname,Name,DOB,Sex,HeartRate_bpm,SystolicBP_mmHg,DiastolicBP_mmHg,RespiratoryRate_bpm,Temperature_C,SpO2_percent,Hemoglobin_g/dL,WBC_10^3/uL,Platelets_10^3/uL,BloodGlucose_mg/dL,SerumNa_mEq/L,SerumK_mEq/L,Creatinine_mg/dL,BUN_mg/dL,Notes
+,,,,,,,,,,,,,,,,,,,

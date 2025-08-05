@@ -1,0 +1,2 @@
+PatientID,Surname,Name,DOB,Sex,HeartRate_bpm,SystolicBP_mmHg,DiastolicBP_mmHg,RespiratoryRate_bpm,Temperature_C,SpO2_percent,Hemoglobin_g/dL,WBC_10^3/uL,Platelets_10^3/uL,BloodGlucose_mg/dL,SerumNa_mEq/L,SerumK_mEq/L,Creatinine_mg/dL,BUN_mg/dL,Notes
+P001,WILLIAMS,JORDAN,1983-04-17,M,132,98,65,22,38.2,89,13.5,,245,,139,3.1,,,"Hx of HTN, dizziness on standing"
