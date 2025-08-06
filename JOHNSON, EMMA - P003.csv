@@ -1,0 +1,2 @@
+PatientID,Surname,Name,DOB,Sex,HeartRate_bpm,SystolicBP_mmHg,DiastolicBP_mmHg,RespiratoryRate_bpm,Temperature_C,SpO2_percent,Hemoglobin_g/dL,WBC_10^3/uL,Platelets_10^3/uL,BloodGlucose_mg/dL,SerumNa_mEq/L,SerumK_mEq/L,Creatinine_mg/dL,BUN_mg/dL,Notes
+P003,JOHNSON,EMMA,2015-06-12,F,140,105,70,28,37.9,96,11.2,15.5,180,135,138,4,0.6,19,"Mild cough, tiredness"

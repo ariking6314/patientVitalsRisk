@@ -1,3 +1,0 @@
-PatientID,Age,Sex,HeartRate_bpm,SystolicBP_mmHg,DiastolicBP_mmHg,RespiratoryRate_bpm,Temperature_C,SpO2_percent,Hemoglobin_g/dL,WBC_10^3/uL,Platelets_10^3/uL,Glucose_mg/dL,Sodium_mEq/L,Potassium_mEq/L,Creatinine_mg/dL,ALT_U/L,AST_U/L,CRP_mg/L,BMI,Notes
-001,45,F,85,130,85,18,36.7,97,13.5,6.2,250,95,140,4.2,1.0,30,25,5.0,24.5,
-002,60,M,105,160,95,22,38.0,92,11.0,9.0,180,150,135,5.5,80,70,20.0,29.0,Patient complains of chest pain
