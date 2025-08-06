@@ -55,4 +55,4 @@ Supports age-based and sex-based reference ranges
 
 This will return the following
 
-![Console output](https://www.github.com/ariking6314/patientVitalsRisk/image.png)
+![Console output](https://raw.githubusercontent.com/ariking6314/patientVitalsRisk/refs/heads/main/image.png)
